@@ -1,0 +1,5 @@
+ErrorDocument 400 https://blue16.xyz/400.shtml
+ErrorDocument 401 https://blue16.xyz/401.shtml
+ErrorDocument 403 https://blue16.xyz/403.shtml
+ErrorDocument 404 https://blue16.xyz/404.shtml
+ErrorDocument 500 https://blue16.xyz/500.shtml
