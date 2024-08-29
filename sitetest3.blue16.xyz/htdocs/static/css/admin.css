@@ -1,0 +1,51 @@
+#main {
+    display: flex;
+    min-height: 100vh;
+    margin-top: 120px
+}
+
+.container a {
+    color: #fff;
+    text-decoration: none
+}
+
+.admin-box {
+    transition: .2s;
+    background-color: #1b1b1b;
+    box-shadow: 0 0 10px rgba(0,0,0,.5)
+}
+
+.admin-box p {
+    color: #c8c8c8
+}
+
+.admin-box:hover {
+    transform: scale(1.05)
+}
+
+.gameserver-box {
+    transition: .2s;
+    border: 1px solid #3c3c3c!important
+}
+
+.greenborder {
+    border-color: #00c700!important
+}
+
+.redborder {
+    border-color: #c70000!important
+}
+
+.yellowborder {
+    border-color: #c7c700!important
+}
+
+.gameserver-box:hover {
+    transform: scale(1.015)
+}
+
+.messagealerts {
+    background: rgba(255,0,0,.2);
+    color: #e2e2e2;
+    word-wrap: break-word
+}
